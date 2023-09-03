@@ -1,5 +1,5 @@
 ### Hey! I'm Maverick and welcome to my world! 🌎
-<p>🌱 I’m currently learning Java, JavaScript, HTML and CSS.<p>
+<p>🌱 I’m currently learning Java, SpringBoot and Scala.<p>
 <p>📚 I'm also a student of system analysis and development.<p>
 <p>😄 Pronouns: he/him</p>
 
